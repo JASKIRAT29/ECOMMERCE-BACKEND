@@ -27,3 +27,6 @@ This repository is licensed under the MIT license.
 #Demo
 below is full demostartion of application.
 ![Untitled_ Jan 19, 2023 6_32 PM](https://user-images.githubusercontent.com/114631240/213585783-fb5b5f2d-c03d-49cb-b52b-448e034db716.gif)
+![DEMO1](https://user-images.githubusercontent.com/114631240/213586500-9b4c8b73-2b75-403b-8139-063f167b15bf.jpg)
+![DEMO2](https://user-images.githubusercontent.com/114631240/213586513-ae32d0b0-383d-4ce3-807b-49b209e500ce.jpg)
+![DEMO3](https://user-images.githubusercontent.com/114631240/213586521-2ec89d5b-351c-4b4b-8b92-9eb296483049.jpg)
