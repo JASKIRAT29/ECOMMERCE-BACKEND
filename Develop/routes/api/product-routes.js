@@ -11,11 +11,10 @@ router.get('/', async (req, res) => {
     const productData = await Product.findAll( {
       include: [{ 
       model: Category, 
-      attributes:['id','category_name']
     },
        {
         model: Tag,
-        attributes:['id','category_name']
+     
        }]
     });
     res.status(200).json(productData);
